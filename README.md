@@ -1,2 +1,2 @@
-# dirk
-my first repository
+# repository
+my first repository 
